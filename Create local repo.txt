@@ -66,4 +66,15 @@ git diff branch2 remotes/origin/master
 # with the local master
 git diff branch2 master
 
+
 # force adding a conflict
+
+# we can merge a fast forward branch (to a master)
+# which is branched out of another branch which
+# was itself fast forward to master
+
+# same command, while on master
+git merge branch2
+
+# we can also push unconnected fast forward branch2 to remote master
+git push origin master
