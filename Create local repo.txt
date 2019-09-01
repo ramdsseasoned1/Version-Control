@@ -78,3 +78,5 @@ git merge branch2
 
 # we can also push unconnected fast forward branch2 to remote master
 git push origin master
+
+# force adding a conflict2
