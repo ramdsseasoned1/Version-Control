@@ -65,3 +65,10 @@ git diff branch2 remotes/origin/master
 
 # with the local master
 git diff branch2 master
+
+# we can merge a fast forward branch (to a master)
+# which is branched out of another branch which
+# was itself fast forward to master
+
+# same command, while on master
+git merge branch2
