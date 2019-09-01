@@ -65,3 +65,5 @@ git diff branch2 remotes/origin/master
 
 # with the local master
 git diff branch2 master
+
+# force adding a conflict
