@@ -31,3 +31,13 @@ git commit -m "first addition to Version Control"
 git remote add origin https://github.com/ramdsseasoned1/Version-Control.git
 
 git remote -v to view the remote url
+
+# push to remote
+
+git push origin master
+
+# get the commit history in logs
+
+git log --oneline
+
+# each commit is identified with a git hash SHA-1 algo
