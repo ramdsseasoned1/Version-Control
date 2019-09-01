@@ -50,4 +50,8 @@ git checkout branch1
 # merge from branch a to branch b
 # goto branch b and type the below
 
-git merge a 
+git merge a
+
+# if we wanna see the heads where git is pointing on each branch
+git show-ref
+git show
