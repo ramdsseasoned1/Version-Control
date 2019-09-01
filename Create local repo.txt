@@ -41,3 +41,8 @@ git push origin master
 git log --oneline
 
 # each commit is identified with a git hash SHA-1 algo
+
+# Create branches
+
+git branch branch1
+git checkout branch1
