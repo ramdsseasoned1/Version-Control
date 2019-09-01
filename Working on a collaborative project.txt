@@ -1,1 +1,7 @@
 # create two branches on remote ( where each branch is assigned to a developer/feature dev)
+# to find all branches in repos
+git remote show origin
+# the above will tell you the new branches too
+
+# the below will give the SHA1 codes for the remote
+git ls-remote
