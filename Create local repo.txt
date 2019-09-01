@@ -23,3 +23,11 @@ git add .
 
 # commit to local
 git commit -m "first addition to Version Control"
+
+# default repo main branch is master. Create a github account and create a new repo
+
+# add the remote origin on your local
+
+git remote add origin https://github.com/ramdsseasoned1/Version-Control.git
+
+git remote -v to view the remote url
