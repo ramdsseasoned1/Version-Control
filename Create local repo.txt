@@ -72,3 +72,6 @@ git diff branch2 master
 
 # same command, while on master
 git merge branch2
+
+# we can also push unconnected fast forward branch2 to remote master
+git push origin master
