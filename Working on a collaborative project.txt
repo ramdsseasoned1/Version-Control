@@ -12,4 +12,6 @@ git fetch
 # to be able to push to a new branch use below command
 git push origin Head:editor_1
 
-# need to complete tracking; upstream; fork; training setup 
+# need to complete tracking; upstream; fork; training setup
+
+#eod
