@@ -78,3 +78,7 @@ git merge branch2
 
 # we can also push unconnected fast forward branch2 to remote master
 git push origin master
+
+# to find commit differences
+git rev-list --left-right --count master...branch1
+git rev-list --left-right --count master...remotes/origin/master
