@@ -15,3 +15,9 @@ git push origin Head:editor_1
 # need to complete tracking; upstream; fork; training setup
 
 #eod
+
+# to create a new branch on repo, we can do it from local as well
+git push origin editor_1_Local:editor_3
+
+# The above code will create editor_3 in repo
+# however the new branch error still exists "src refspec new_branch does not match any"
