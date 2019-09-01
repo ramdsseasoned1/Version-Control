@@ -8,3 +8,6 @@ git ls-remote
 
 # fetch remote new branches
 git fetch
+
+# to be able to push to a new branch use below command
+git push origin Head:editor_1
