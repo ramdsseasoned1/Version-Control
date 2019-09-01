@@ -58,3 +58,10 @@ git show-ref
 # this will show where the head is pointed for the current branch and also the diff
 # with the branch where it is originated from
 git show
+
+# to find differences with other branches
+# with the remote branch
+git diff branch2 remotes/origin/master
+
+# with the local master
+git diff branch2 master
