@@ -46,3 +46,8 @@ git log --oneline
 
 git branch branch1
 git checkout branch1
+
+# merge from branch a to branch b
+# goto branch b and type the below
+
+git merge a 
