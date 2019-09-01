@@ -5,3 +5,6 @@ git remote show origin
 
 # the below will give the SHA1 codes for the remote
 git ls-remote
+
+# fetch remote new branches
+git fetch
