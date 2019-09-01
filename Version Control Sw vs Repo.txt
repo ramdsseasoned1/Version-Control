@@ -1,0 +1,13 @@
+VC SW - Git
+------------
+One of the most popular source control systems is Git.
+Git is a system that allows developers to check in code,
+revert to old versions of code, create branches of code,
+and a whole lot more.
+
+VC Repo - Github
+-------------
+GitHub is the popular service that extends the Git version control
+software. GitHub makes not only committing code to a repository
+possible but also makes collaboration with others on a
+project much easier.

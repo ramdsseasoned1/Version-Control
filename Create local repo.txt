@@ -1,0 +1,25 @@
+# goto cmder and the follow the below steps
+
+# cd C:\reimage 2\reimage\Ramakanth\Code Repo\Version control
+
+# Add username and user emal to ID your commits
+git config --global user.name ****
+
+git config --global user.email ****
+# initialize a git local repo
+
+git init
+
+# git status
+
+  --it will tell you which have been staged, which have been commited, which have been untracked,
+  and yet to be staged
+
+# Add all the files to the local repo
+
+git add .
+
+    # the above command will stage them before they go into the repo. You gotta commit to let 'em in
+
+# commit to local
+git commit -m "first addition to Version Control"

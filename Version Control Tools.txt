@@ -1,0 +1,26 @@
+Top tools:
+
+Version control software:
+
+Freeware:
+---------
+Git
+CVS
+SVN
+Mercurial
+Monotone
+Bazaar
+
+Licensed
+---------
+MS:
+Team foundation server(TFS)
+Visual Studio Team Services(VSTS)
+
+Code repos:
+
+GitHub
+BitBucket
+GitLab
+SourceForge
+Launchpad 

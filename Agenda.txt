@@ -1,0 +1,5 @@
+1. Version control softwares and repos
+2. Version control software vs repo
+   git vs github
+3. CLI s
+4. Create a local repo in a project folder - CLI 
